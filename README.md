@@ -3,8 +3,6 @@ This project contains the node code for Prodigy Blockchain, a certificate docume
 
 Please read the [documentation regarding Prodigy Blockchain](https://prodigychain.bit.ai/rdc/j9xA8uLDLVOgIZtL) to understand the use cases.
 
-Please read the [Node API Documentation](https://app.swaggerhub.com/apis-docs/test-prodigy-blockch/prodigy-node_api/v1#/).
-
 ## Use Case for Prodigy Blockchain
 The use case for Prodigy is storing simple documents like manufacturing product certificates, certificates of conformance, certificates of test, and more. These documents are encrypted and stored in a block on a chain that is accessible via a unique identifier like a serial number, document number, or order number. 
 
