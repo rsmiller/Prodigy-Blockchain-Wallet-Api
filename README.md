@@ -1,4 +1,4 @@
-# Prodigy Blockchain Explorer
+# Prodigy Blockchain Wallet Api
 This project contains the node code for Prodigy Blockchain, a certificate document-based blockchain. This app will allow you to generate a document blockchain that is hosted on your server/msa or in the cloud. This will also allow you to create the first initial wallet for the blockchain if you intend to do an import of data.
 
 Please read the [documentation regarding Prodigy Blockchain](https://prodigychain.bit.ai/rdc/j9xA8uLDLVOgIZtL) to understand the use cases.
